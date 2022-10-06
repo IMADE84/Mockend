@@ -1,5 +1,24 @@
 {
-  "User": {
-    "title": { "string": {} }
-  }
+  "etapes": [
+    {
+      "idDemande": "string1",
+      "horodateurDebutUtilisation": "2021-01-19T16:23:30.415-05:00",
+      "horodateurFinUtilisation": "2021-01-19T16:23:30.415-05:00",
+      "codeStatut": "string",
+      "nomEtape": "string",
+      "codeUtilisateur": "strings",
+      "nomConseiller": "string",
+      "groupeConseiller": "string"
+    },
+	{
+      "idDemande": "string2",
+      "horodateurDebutUtilisation": "2021-01-19T16:23:30.415-05:00",
+      "horodateurFinUtilisation": "2021-01-19T16:23:30.415-05:00",
+      "codeStatut": "string",
+      "nomEtape": "string",
+      "codeUtilisateur": "strings",
+      "nomConseiller": "string",
+      "groupeConseiller": "string"
+    }
+  ]
 }
